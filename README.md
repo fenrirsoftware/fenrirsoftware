@@ -115,7 +115,7 @@ Materov ve Teknofest yarışmalarında su altı robotu kategorisinde 2 sene tak�
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21ko2k352aojwd2l4oqpoggsy&cover_image=true&theme=default&show_offline=false" /></div>  
+
 
 <br/>  
 
@@ -129,5 +129,4 @@ Materov ve Teknofest yarışmalarında su altı robotu kategorisinde 2 sene tak�
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
