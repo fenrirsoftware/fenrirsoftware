@@ -105,7 +105,7 @@ Materov ve Teknofest yarışmalarında su altı robotu kategorisinde 2 sene tak�
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fenrirsoftwarer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fenrirsoftware&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
   
 
