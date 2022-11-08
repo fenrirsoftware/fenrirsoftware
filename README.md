@@ -105,7 +105,7 @@ Materov ve Teknofest yarışmalarında su altı robotu kategorisinde 2 sene tak�
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=heimdallrRover&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fenrirsoftwarer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
   
 
@@ -116,7 +116,7 @@ Materov ve Teknofest yarışmalarında su altı robotu kategorisinde 2 sene tak�
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=heimdallrRover&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=fenrirsoftware&&style=flat-square" align="center" />
 </div>  
   
 
