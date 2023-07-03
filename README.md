@@ -1,7 +1,7 @@
 ### <div align="center">Merhaba, Ben Özhan Yıldırım </div>  
   
 
-<div align="center">Bilgi Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim.
+<div align="center">Bilgi Üniversitesi Bilgisayar Programcılığı Mezunuyum.
 
 Hedefim Full Stack Developer olmak. Ve bu yolda ilerlemeye devam ediyorum
 Kendi firmam olan Fenrir Software bünyesinde projelerime devam ediyorum.
