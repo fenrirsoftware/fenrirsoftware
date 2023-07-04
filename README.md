@@ -9,7 +9,12 @@ Hedefim Full Stack Developer olmak. Ve bu yolda ilerlemeye devam ediyorum
   
 
 <br/>  
-
+<h5  align="center">
+İstinye sahile mısra tükürdüm <br>
+Belimde piştovum şeytan dürtmesi<br>
+Yirmi beş yılımı namluya sürdüm<br>
+Yazgımız elemle beşik kertmesi<br>
+</h5>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -122,5 +127,7 @@ Hedefim Full Stack Developer olmak. Ve bu yolda ilerlemeye devam ediyorum
 
 
 <br />
+
+
 
 
