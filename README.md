@@ -4,9 +4,7 @@
 <div align="center">Bilgi Üniversitesi Bilgisayar Programcılığı Mezunuyum.
 
 Hedefim Full Stack Developer olmak. Ve bu yolda ilerlemeye devam ediyorum
-Kendi firmam olan Fenrir Software bünyesinde projelerime devam ediyorum.
 
-Materov ve Teknofest yarışmalarında su altı robotu kategorisinde 2 sene takım kaptanlığı görevinde yer aldım.
 </div>  
   
 
