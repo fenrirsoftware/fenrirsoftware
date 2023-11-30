@@ -20,9 +20,7 @@ Yazgımız elemle beşik kertmesi<br>
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=fenrirsoftware&theme=dracula&hide_border=false)
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fenrirsoftware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
- <!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Helmssyss&theme=dracula) -->
+
 
 </div>
 
