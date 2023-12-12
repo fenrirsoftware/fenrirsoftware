@@ -2,8 +2,8 @@
   
 
 <div align="center">Bilgi Üniversitesi Bilgisayar Programcılığı Mezunuyum.
-
-Hedefim Full Stack Developer olmak. Ve bu yolda ilerlemeye devam ediyorum
+<div align="center">
+Yönetim Bilişim Sistemleri bölümü ile eğitim hayatıma devam ediyorum.
 
 </div>  
   
